@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dubey</h1>
 <h3 align="center">Android | Web | Developer | MVVM/MVC | SOLID | DI | CI/CD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshudubey5001&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshudubey5001" /> </p>
-
 - 🔭 I’m currently working on [Address Book](https://github.com/SudhanshuDubey5001/AddressBook)
 
 - 🌱 I’m currently learning **React Native, Spring Boot, Flutter**
